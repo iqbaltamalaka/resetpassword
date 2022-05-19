@@ -1,0 +1,77 @@
+body {  margin-bottom: 0px;
+	margin-top: 20%;
+        padding: 0px;
+        background: url(iqbal.JPG); 
+        background-size: cover;
+        background-position: center;
+        font-family: sans-serif;
+        height: 100vh;
+
+        }
+
+.reset-box	{	font-size: 13px;
+			font-style: italic;
+			width: 50%;
+	                height: 200px;
+	                background: rgba(0, 0, 0, 0.5);
+	                color: #fff;
+	                top: 50%;
+	                left: 50%;
+	                position: fixed;
+	                box-sizing: border-box;
+	                padding: 20px;
+	                transform: translate(-50%, -50%);
+	                background-size: cover;
+       			background-position: center;
+       			                        margin-bottom: 20px;
+                        margin-top: 0%;
+                        border-radius: 20px;
+                        text-align: center;
+                        color: #fff;
+
+
+
+}
+
+.reset-box	input{	width: 80%;
+                    margin-bottom: 20px;
+                    height: 27px;
+                    font-size: 17px;
+                    font-style: italic;
+
+}
+
+.reset-box	button{	border: none;
+	                outline: none;
+	                width: 13%;
+	                height: 25px;
+	                color: #fff;
+	                font-size: 15px;
+	                font-style: italic;
+	                border-radius: 10px;
+	                background: #1c8adb;
+	}
+
+
+.reset-box button[type="submit"]:hover{
+                cursor: pointer;
+                background-color: #E33D56;
+                color: #fff;
+}
+
+.reset-box button:hover{
+
+                color: #E33D56;
+}
+
+.reset-box a{	text-decoration: none;
+	        display: inline-block;
+	        color: whitesmoke;
+	        font-size: 18px;
+	        font-display: block;
+
+}
+
+h2 	{	
+
+}
